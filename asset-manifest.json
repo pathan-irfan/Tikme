@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tikme/static/css/main.b87c61e6.css",
+    "main.js": "/Tikme/static/js/main.576d552c.js",
+    "static/media/slick.svg": "/Tikme/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Tikme/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Tikme/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Tikme/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Tikme/index.html",
+    "main.b87c61e6.css.map": "/Tikme/static/css/main.b87c61e6.css.map",
+    "main.576d552c.js.map": "/Tikme/static/js/main.576d552c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87c61e6.css",
+    "static/js/main.576d552c.js"
+  ]
+}
